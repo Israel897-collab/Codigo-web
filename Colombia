@@ -1,0 +1,241 @@
+{
+    "doc_desc": {
+        "title": "EXPO_2011 A 2024",
+        "idno": "COL-DANE-EXPO-2011-2020",
+        "producers": [
+            {
+                "name": "Ivan Rolando Castillo Prieto",
+                "abbreviation": "ircastillop@dane.gov.co",
+                "affiliation": "Dirección de Regulación, Planeación, Estandarización y Normalización- DIRPEN ",
+                "role": "Coordinador Regulación"
+            },
+            {
+                "name": "Leidy Katherine Cifuentes Martinez",
+                "abbreviation": "lkcifuentesm@dane.gov.co",
+                "affiliation": "Dirección de Metodología y Producción Estadística  - DIMPE",
+                "role": "Temática Comercio Exterior"
+            },
+            {
+                "name": "Rafael Humberto Zorro Cubides",
+                "abbreviation": "rhzorroc@dane.gov.co",
+                "affiliation": "Dirección de Regulación, Planeación, Estandarización y Normalización- DIRPEN ",
+                "role": "Actualizador DIRPEN"
+            },
+            {
+                "name": "Marly Johanna Tellez López",
+                "abbreviation": "mjtellezl@dane.gov.co",
+                "affiliation": "Dirección de Información, Mercadeo y Cultura Estadística – DIMCE",
+                "role": "Verificador DIMCE"
+            }
+        ],
+        "prod_date": "2023-03-07"
+    },
+    "study_desc": {
+        "title_statement": {
+            "idno": "DANE-DIMPE-EXPO-2011-2012-2013-2014-2015-2016",
+            "title": "Estadísticas de Exportaciones - EXPO - 2011 A 2024",
+            "alt_title": "EXPO",
+            "translated_title": "Export statistics"
+        },
+        "authoring_entity": [
+            {
+                "name": "Dirección de Metodología y Producción Estadística - DIMPE",
+                "affiliation": ""
+            }
+        ],
+        "production_statement": {
+            "producers": [
+                {
+                    "name": "Dirección de Metodología y Producción Estadística - Estadisticas de Exportaciones",
+                    "affiliation": "Departamento Administrativo Nacional de Estadística - DANE",
+                    "role": "Equipo Técnico"
+                }
+            ],
+            "copyright": "Ley 1032 de 2006",
+            "funding_agencies": [
+                {
+                    "name": "Departamento Administrativo Nacional de Estadística",
+                    "abbreviation": "DANE",
+                    "role": "Ejecutor"
+                }
+            ]
+        },
+        "distribution_statement": {
+            "contact": [
+                {
+                    "name": "contacto@dane.gov.co",
+                    "affiliation": "DANE",
+                    "email": "contacto@dane.gov.co",
+                    "uri": "http://www.dane.gov.co/index.php/contactenos"
+                }
+            ]
+        },
+        "series_statement": {
+            "series_name": "Registros administrativos, otros (ad/oth]",
+            "series_info": "ANTECEDENTES DE LA OPERACIÓN ESTADÍSTICA\n\n\nLa producción y publicación periódica de la información de comercio exterior en Colombia se inició en 1916. Entre 1916 y 1951 estas estadísticas fueron elaboradas por la Dirección General de Estadísticas, entidad adscrita a la Contraloría General de la República. \n\nDesde 1951 hasta agosto de 1953 esas estadísticas las elaboró la Dirección Nacional de Estadísticas, adscrita a la Presidencia de la República. A partir de esta fecha, el DANE, que reemplazó a dicha Dirección, asumió las funciones que corresponden a la producción y la divulgación de estas estadísticas. \n\nA partir del 2005, la DIAN, a través de su Sistema Informático de Gestión Aduanero (SYGA), entrega mensualmente al DANE un archivo con las declaraciones de exportaciones para la realización de la validación y verificación de la información. Además, las Direcciones Seccionales de Aduanas del país hacen entrega de las declaraciones litográficas de exportación que fueron hechas de manera manual para que el DANE realice las actividades de recepción, loteo, crítica y captura para su consolidación y posterior entrega de información. A partir de octubre del 2008, la DIAN puso a disposición del DANE el Sistema Informático de Gestión Aduanero (MUISCA) que compila las declaraciones de exportación con sus respectivas autorizaciones de embarque. \n\n\nREFERENTES INTERNACIONALES\n\n\nLas estadísticas de exportaciones son producidas siguiendo recomendaciones internacionales emitidas por la ONU y la Secretaría General de la CAN. Las más importantes son las siguientes: \n\n- Registrar por separado ciertos bienes cuya información permita ajustar los totales del comercio internacional de mercancías, a efectos de consolidar la información de las Cuentas Nacionales y la Balanza de Pagos para la elaboración de estadísticas detalladas de comercio exterior. \n\n- Utilizar inicialmente el territorio aduanero como territorio estadístico. \n\n- Conforme a las recomendaciones internacionales, el objetivo a largo plazo es que el territorio estadístico corresponda al territorio económico. \n\n- Las estadísticas del comercio exterior de mercancías deben registrar todos los bienes que se suman o se restan al acervo de recursos materiales del país, debido a los movimientos de entrada (importaciones) o salida (exportaciones) de su territorio económico. Los bienes que se transportan a través del país o se admiten o retiran temporalmente de él no se suman ni se restan del acervo de recursos materiales de ese país y, por tanto, no se incluirán en las estadísticas del comercio internacional de mercancías. \n\n- Es importante mencionar que el Artículo 4 de la Decisión 511 de la CAN establece que el territorio estadístico de los países miembros se definirá como su territorio aduanero, hasta tanto se adopten las disposiciones que permitan elaborar las estadísticas basadas en el territorio económico; es bajo este principio que se han producido las estadísticas de comercio exterior en Colombia. \n\nAdoptando estas recomendaciones, la metodología se realiza teniendo en cuenta los códigos de modalidad5 de exportación para identificar aquellas mercancías que se incluyen o excluyen de las estadísticas (ver Anexo G). De igual modo, se excluyen las exportaciones de oro para uso monetario, billetes, monedas en circulación las cuales no son identificadas con códigos internos."
+        },
+        "holdings": [
+            {
+                "text": "Mercancías vendidas a otros países y a las zonas francas del territorio nacional, que salen a través de las diferentes aduanas del país.",
+                "location": "",
+                "callno": "",
+                "uri": ""
+            }
+        ],
+        "study_notes": "OBJETIVO GENERAL \n\nObtener información periódica sobre las ventas de bienes que realiza legalmente el país al exterior o a una zona franca del territorio nacional. \n\n\nOBJETIVOS ESPECÍFICOS \n\n- Producir de manera conjunta con la DIAN las estadísticas de exportaciones de bienes, validadas y certificadas. \n\n- Divulgar en forma periódica las estadísticas provisionales y definitivas de las exportaciones colombianas.",
+        "study_info": {
+            "keywords": [
+                {
+                    "keyword": "Autorización de Embarque",
+                    "vocab": "",
+                    "uri": ""
+                },
+                {
+                    "keyword": "Declarante",
+                    "vocab": "",
+                    "uri": ""
+                },
+                {
+                    "keyword": "Departamento de origen",
+                    "vocab": "",
+                    "uri": ""
+                },
+                {
+                    "keyword": "Exportación de bienes",
+                    "vocab": "",
+                    "uri": ""
+                },
+                {
+                    "keyword": "Exportación definitiva",
+                    "vocab": "",
+                    "uri": ""
+                },
+                {
+                    "keyword": "País de compra",
+                    "vocab": "",
+                    "uri": ""
+                },
+                {
+                    "keyword": "País de origen",
+                    "vocab": "",
+                    "uri": ""
+                },
+                {
+                    "keyword": "País de procedencia",
+                    "vocab": "",
+                    "uri": ""
+                },
+                {
+                    "keyword": "Peso bruto",
+                    "vocab": "",
+                    "uri": ""
+                },
+                {
+                    "keyword": "Peso neto",
+                    "vocab": "",
+                    "uri": ""
+                },
+                {
+                    "keyword": "Territorio aduanero nacional",
+                    "vocab": "",
+                    "uri": ""
+                },
+                {
+                    "keyword": "Valor FOB",
+                    "vocab": "",
+                    "uri": ""
+                }
+            ],
+            "topics": [
+                {
+                    "topic": "Consumo/comportamientos de consumidores [1.1]",
+                    "vocab": "CESSDA",
+                    "uri": "http://www.nesstar.org/rdf/common"
+                },
+                {
+                    "topic": "Situación económica eindicadores [1.2]",
+                    "vocab": "CESSDA",
+                    "uri": "http://www.nesstar.org/rdf/common"
+                },
+                {
+                    "topic": "Sistemas económicos y desarrollo [1.4]",
+                    "vocab": "CESSDA",
+                    "uri": "http://www.nesstar.org/rdf/common"
+                },
+                {
+                    "topic": "ECONOMÍA [1]",
+                    "vocab": "CESSDA",
+                    "uri": "http://www.nesstar.org/rdf/common"
+                }
+            ],
+            "abstract": "Las estadísticas de exportaciones registran la salida legal de mercancías hacia otro país o una zona franca colombiana y se basan en las declaraciones de exportaciones presentadas ante las diferentes administraciones de aduanas del país. \n\nEsas exportaciones se registran estadísticamente cuando la aduana ha realizado el cierre de la declaración de exportación y, basado en esta, se presenta la información de acuerdo con los códigos de exportaciones que incluyen el DANE y la Dirección de Impuestos y Aduanas Nacionales de Colombia (DIAN) para registrar los bienes que, por metodología, deben incluirse o excluirse de las estadísticas del comercio exterior de bienes, de acuerdo con las recomendaciones internacionales2 emitidas por la Comunidad Andina (CAN) y la Organización de las Naciones Unidas (ONU). \n\nEs imprescindible contar periódicamente con estas estadísticas, que reflejen la evolución y el comportamiento de estas actividades en el ámbito nacional, teniendo en cuenta su participación en el Producto Interno Bruto (PIB), la generación de empleo y el volumen de bienes y servicios que circulan por estos canales. \n\nEn este contexto, esta operación estadística busca satisfacer las necesidades y las exigencias de las personas, las instituciones y los organismos nacionales e internacionales dedicados a investigaciones relacionadas con la venta de mercancías al exterior. Esta metodología expone en detalle los pasos llevados a cabo para desarrollar las estadísticas de exportaciones.",
+            "time_periods": [
+                {
+                    "start": "2011-11-01",
+                    "end": "2024-12-01",
+                    "cycle": "Mensual"
+                }
+            ],
+            "coll_dates": [
+                {
+                    "start": "2011",
+                    "end": "2024",
+                    "cycle": "Mensual"
+                }
+            ],
+            "nation": [
+                {
+                    "name": "COLOMBIA",
+                    "abbreviation": "COL"
+                }
+            ],
+            "geog_coverage": "Las estadísticas de exportaciones abarcan todo el movimiento legal de las mercancías a nivel nacional vendidas a otros países y a las zonas francas dentro del territorio económico nacional.",
+            "geog_unit": "La desagregación geográfica se presenta según departamento de origen de las exportaciones y se agrega para obtener resultados a nivel nacional.",
+            "analysis_unit": "La DEX se constituye en la materia prima para la elaboración de las estadísticas de exportaciones, exceptuando las estadísticas de petróleo y derivados, es decir, que la declaración de exportación es la unidad de análisis y de observación. Para el estudio de las exportaciones de petróleo y sus derivados, la información es suministrada al DANE mensualmente por las empresas exportadoras de estos productos.",
+            "universe": "Mercancías vendidas a otros países y a las zonas francas del territorio nacional, que salen a través de las diferentes aduanas del país.",
+            "data_kind": "Operación estadística basada en registros administrativos (adm)",
+            "notes": "NECESIDAD DE LA INFORMACIÓN  \n\nLas exportaciones corresponden a aquellos bienes que salen de un país y son registrados en las aduanas. Estas se valoran a precios FOB debido a que incluyen todos los costos de transporte de los bienes a la frontera aduanera, los derechos de exportación y el costo de carga de los bienes en el medio de transporte utilizado. Su importancia radica en medir la evolución de los bienes exportables y se constituye en un insumo para calcular la balanza comercial del país con el resto del mundo. \n\n\nVARIABLES\n \nVariables de clasificación: país de destino, departamento de origen de la mercancía, departamento de procedencia de la mercancía, modo de transporte, bandera de transporte, subpartida arancelaria. \n\nVariables de análisis: subpartida arancelaria, kilo bruto de la mercancía, kilo neto de la mercancía, unidad comercial de medida, cantidad de unidades, valor FOB US$ de la mercancía, valor FOB pesos de la mercancía"
+        },
+        "method": {
+            "data_collection": {
+                "data_collectors": [
+                    {
+                        "name": "Departamento Administrativo Nacional de Estadística",
+                        "abbreviation": "DANE-DIMPE",
+                        "affiliation": "Gobierno Nacional"
+                    }
+                ],
+                "coll_mode": "Autodiligenciamiento de formulario electrónico vía página web (por selección; por ejemplo en encuestas por muestreo o censos)",
+                "research_instrument": "El instrumento de recolección es la declaración de exportaciones MUISCA600-DEX, tanto la que graba la DIAN en su sistema, como las copias litográficas que recibe el DANE. La entidad que diseña este instrumento es la DIAN. También se cuenta con el formato del reporte de petróleo, por medio del cual suministran información las empresas exportadoras de petróleo y sus derivados. \n\nEl DANE realiza la producción estadística de la investigación a través de tres elementos:\n \n- El archivo que es enviado por la DIAN al DANE para su validación y certificación y que se obtiene de las DEX tramitadas a través del Sistema de Información MUISCA. \n\n- Las copias de las DEX tramitadas en las aduanas del país y que son enviadas mensualmente al DANE. \n\n- Para el caso de las exportaciones de petróleo y sus derivados se recolecta los reportes directos de las empresas exportadoras, con el fin de corregir el rezago que se presenta entre la salida o embarque de esta mercancía y la fecha en que se realiza el cierre del documento aduanero ante la DIAN. \n\n\nLa información de las declaraciones electrónicas suministradas por la DIAN, por ser un registro administrativo, no requiere ningún tipo de recolección. Por lo tanto, el operativo de recolección se centra en los litográficos y los reportes de petróleo y sus derivados. \n\nDurante el procesamiento de la información, también se cuenta con los siguientes instrumentos: \n\n- Cobertura de las estadísticas de exportaciones: documento donde se relaciona las modalidades que se incluyen y excluyen en la metodología, para el cálculo de las estadísticas de exportaciones. \n\n\n- Glosario de términos: documento que describe las definiciones de los principales conceptos que se utilizan en las investigaciones de exportaciones e importaciones. \n\n- Descripción del modelo funcional: permite hacer una descripción de todos los procesos y subprocesos necesarios para llevar a cabo la ejecución de las actividades que intervienen en esta investigación, aplicando la metodología de diagrama de contexto y de niveles. \n\n- Comercio Exterior - Manual del usuario: tiene objeto dar una guía básica y explicar las opciones del menú principal, para utilizar el Sistema de Captura de Comercio Exterior. \n\n- Manual para la Recepción y Loteo de las Declaraciones de Exportación-EXPO: describe las instrucciones para el proceso de recepción y loteo de las declaraciones de exportación. \n\n- Manual para la Crítica y Grabación de la Declaración de Exportación-EXPO: en este documento se presentan las recomendaciones generales para una correcta crítica y codificación de las declaraciones de exportación; adicional a ello, se describe cada uno de los campos que componen la declaración de exportación, con el fin de contextualizar a las personas que se encargan de esta labor con todo el documento; por último; se presentan las instrucciones generales para la grabación de las declaraciones simplificadas. \n\n- Ficha Metodológica EXPO: resumen de los parámetros básicos de la investigación. \n\n- Manual para la consolidación y validación de los archivos DIAN-DANE_Exportaciones-Expo: describe la manera en que se realiza la consolidación o unión de los archivos DIAN y DANE, previamente realizando la validación a las variables de interés con el objeto de conformar un archivo completo y consistente. \n\n- Manual de archivos de salida E110 Exportaciones-EXPO, Exportaciones - Expo: se describen los procesos requeridos para la generación de los archivos de avance y resultados de exportaciones que van desde la conformación de los archivos de avance generados a partir de la consolidación de las bases previamente validadas de las declaraciones electrónicas - DIAN y el consolidado de las declaraciones litográficas, reportes de petróleo y deudas.",
+                "coll_situation": "ENTRENAMIENTO \n\nSiguiendo un único criterio y los lineamientos del DANE, el recurso humano que participa en la investigación recibe una capacitación que garantiza la aplicación apropiada de los conceptos y el desarrollo adecuado de la producción de información estadística de calidad. \n\nEl proceso de capacitación en general consta de: \n\n- Conceptos básicos sobre estadísticas de comercio exterior, apoyado en el Manual de la Organización de Naciones Unidas sobre conceptos y definiciones de estadísticas del comercio internacional de mercancías. \n\n- Aspectos metodológicos de la investigación. \n\n- Proceso de producción de información estadística: obtención de información, validación y análisis de contexto y generación de cuadros de salida. \n\n- Capacitación sobre las funciones específicas del cargo. \n\n\n\nACTIVIDADES PREPARATORIAS\n \nDentro de las actividades preparatorias se encuentra la sensibilización, con la cual se da a conocer la importancia de las cifras de exportaciones para el país y de la necesidad que existe en la oportunidad de la información estadística. Esta se realiza a las entidades que conforman el Comité Interinstitucional de Estadísticas de Comercio Exterior y a las empresas exportadoras de petróleo que suministran mensualmente información al DANE",
+                "act_min": "ACOPIO DE DATOS  \n\nUna vez las DEX han sido enviadas al DANE central por parte de la DIAN y las empresas exportadoras de petróleo y sus derivados, se organizan y agrupan por aduana y tipo de declaración inicial. Estos documentos serán posteriormente loteados, criticados y grabados. \n\nEl control de recepción se realiza a través de formatos, que permiten clasificar por aduana y empresa exportadora de petróleo la novedad que se presenta respecto al envío o no de las declaraciones litográficas y de los reportes de petróleo. \n\nAdemás, se puede observar el número de litográficos enviados, así como el número de registros recibidos. Esta información es posteriormente cotejada con los reportes resultantes del proceso de captura de la información. \n\nEn caso de que no se reciban litográficos ni reportes de las exportaciones de petróleo y sus derivados, el siguiente día hábil después de cumplirse el plazo para enviar información al DANE, se deben enviar correos electrónicos a las aduanas y las empresas que se encuentren en deuda solicitando la información o un oficio o correo electrónico en el que se evidencien que no se tramitaron declaraciones litográficas o no se realizaron movimientos de exportaciones de petróleo y sus derivados durante el mes. \n\nLa clasificación se realiza por aduana, de acuerdo con el tipo de declaración: \n\n- Declaración inicial: son presentadas en la oficina de aduana por primera vez en el mes de referencia de los datos. \n\n- Declaración de corrección: se presenta y entrega a la jurisdicción de la administración aduanera en los siguientes eventos: voluntario, por autorización de la Dirección General de Comercio Exterior del Ministerio de Comercio, Industria y Turismo o por circunstancias excepcionales. \n\n- Modificación de declaración: esto solo ocurrirá para que el declarante cambie la modalidad de exportaciones temporal a definitiva, en el caso que sea una exportación temporal para reimportación en el mismo estado o una exportación es temporal para perfeccionamiento pasivo. \n\nCon el envío de las declaraciones litográficas vía correo electrónico, las oficinas de aduanas, mediante oficio, deben relacionar los números de las declaraciones de exportación enviadas al DANE y el periodo al que corresponde el material. \n\nEl oficio, junto con las DEX litográficas, también debe ser enviado en medio físico al DANE Central. \n\nDespués de clasificados y registrados los DEX litográficos, recibidos para el periodo de referencia, según resultados, se elabora el requerimiento para las aduanas que hayan enviado información incompleta, faltante o declaraciones que no corresponden al DANE, así: \n\n- Solicitar los DEX no enviados por la aduana, de acuerdo con el oficio o correo. \n\n- Si en la DEX litográfica no se encuentra diligenciada la casilla 38 correspondiente a «Tipo de declaración», se debe informar a la aduana correspondiente. \n\n- Se deben relacionar para devolver las declaraciones de exportación corrientes que no son copia DANE. \n\n- Solicitar aquellas declaraciones a los cuales les hacen falta hojas anexas o con información incompleta. \n\n\n\nDISEÑO DE SISTEMAS \n\nPara la generación de las estadísticas de exportaciones, se cuenta con la información de las declaraciones de exportaciones electrónicas que son tramitadas a través del Sistema de Información MUISCA. La base de datos es suministrada al DANE por la DIAN, con una periodicidad mensual. Adicionalmente, se procesa la información de las DEX litográficas enviadas mensualmente por las direcciones de aduanas al DANE, las cuales son criticadas y grabadas, para conformar una base única junto con los reportes directos de petróleo y sus derivados, suministrados por las principales empresas exportadoras. \n\nLos procesos de crítica y codificación de las empresas exportadoras de petróleo se realizan directamente sobre los reportes. Esta información es capturada en el módulo \"CAFEPET\" del aplicativo de captura, desarrollado en Visual Fox. Este aplicativo contiene las especificaciones básicas de validación que permiten garantizar la consistencia de la información, tomando como referencia las tablas maestras. \n\nPosteriormente, se crea la base de datos de exportaciones identificada con la extensión .CON. Esta base contiene los registros de las DEX litográficas, los reportes directos de petróleo y sus derivados y el archivo descargado de la DIAN. \n\nLas deudas y ajustes correspondientes a periodos anteriores, recibidos durante el periodo de referencia se van incorporando a la base del periodo que corresponda, manteniendo actualizadas las bases con los últimos ajustes. \n\nLas bases de datos se almacenan en una carpeta dispuesta para la investigación, en uno de los servidores institucionales. A esta carpeta sólo podrá acceder el equipo técnico de la investigación y algunos usuarios internos de otras investigaciones, a los cuales se les ha autorizado previamente un permiso de sólo consulta. \n\nCon relación al proceso de anonimización, es preciso mencionar que el nivel máximo de desagregación de los resultados es por empresa, debido a que dicha información no tiene reserva estadística.",
+                "cleaning_operations": "DISEÑO DE MÉTODOS Y MECANISMOS PARA EL CONTROL DE CALIDAD \n\n\nINDICADOR DE CONFIABILIDAD  \n\nCon el fin de evaluar el grado de cumplimiento de los objetivos de la operación relacionados con la cobertura, la información suministrada y el nivel de calidad de los procesos operativos, es importante calcular un indicador de confiabilidad a través del cual se pueda hacer seguimiento a las tareas antes mencionadas, las cuales son realizadas por el equipo de Logística en DANE Central. \n\nPara calcular el indicador de confiabilidad se realiza un promedio simple de todos los indicadores que se aplican a las diferentes fases de producción de los resultados que componen la operación estadística (cobertura, crítica, captura y validación de información). Para ello es importante destacar que para esta investigación, no aplican los indicadores de 'tasa de respuesta' y el 'índice de no imputación' ya que la investigación es de tipo registro administrativo.\n \nLas variables analizadas son las siguientes: \n\n- Total de registros electrónicos (DIAN) \n\n- Total de registros de petróleo (DANE) \n\n- Total registros litográficos (DIAN) \n\n- Total registros electrónicos inconsistentes (DIAN) \n\n- Total registros petróleo inconsistentes (DANE) \n\n- Total registros litográficos inconsistentes (DIAN) \n\nLos reportes electrónicos de petróleo y litográficos tienen ponderaciones8 diferentes, teniendo en cuenta la cantidad de registros y la importancia dentro del total de la base de datos. \n\na) Periodicidad en el cálculo del indicador \n\nMensual. \n\nb) Niveles de calidad para el indicador \n\nEs importante establecer que el producto final debe tener los estándares de calidad requeridos. De lo contrario, si después del análisis efectuado el indicador está por fuera de los parámetros de aceptación del producto, se tendrán que tomar las pertinentes acciones correctivas. \n\nTabla 1. Niveles del indicador de calidad \n\nCategoría :  Calidad satisfactorio \t\nIndicador de calidad : >= 98 puntos \t\nDisposición después de análisis :\n\nCategoría : Calidad aceptable \t\nIndicador de calidad: < 98 puntos \t\nDisposición después de análisis :\n\nCategoría : Crítico \t\nIndicador de calidad: <= 97 puntos \t\nDisposición después de análisis :  Acción correctiva \t\n\nFuente: DANE (EXPO) \n\n\nCONSOLIDACION DE ARCHIVOS\n\nEl equipo de logística de la investigación se encarga de consolidar la información de todo el país. Utilizando el programa SAS realiza la generación de validaciones y corrección de inconsistencias. \n\nDespués de realizar la consolidación de las bases, se generan los cuadros de salida con las principales variables objeto de estudio. Al analizarla, esta información se compara con la del mismo mes del año anterior y en comparación con los meses anteriores para determinar si existen inconsistencias; si se ha aplicado la metodología propuesta y, en el contexto nacional, explicar la dinámica de las exportaciones en ese periodo. \n\n\nNORMAS, ESPECIFICACIONES O REGLAS DE VALIDACIÓN, CONSISTENCIA E IMPUTACIÓN . \n\nLa información proveniente de las declaraciones de exportaciones se le realiza una seria de validaciones y especificaciones6, las cuales incluyen variables como el número de  identificación del exportador, código departamento, país de destino, fechas de embarque, código modalidad, subpartida arancelaria, valores, cantidades y volúmenes del producto exportado etc. \n\nA estas variables se les verifica el tamaño o longitud de la información, como ejemplo el NIT está compuesto por máximo 12 caracteres numéricos, si sobre pasa esta especificación se incurre en una inconsistencia que se tiene que revisar, por otro lado el peso bruto en kilogramos debe ser mayor al peso neto en kilogramos, si esto no ocurre también se detecta una inconsistencia, por lo tanto cada campo tiene su especificación y su acción."
+            },
+            "analysis_info": {
+                "sampling_error_estimates": "ANÁLISIS ESTADÍSTICO\n \nEl equipo técnico de la operación elabora una serie de cuadros que permiten identificar y analizar los fenómenos que afectan al comercio exterior del país como los cuadros: \n\n- según grupos de productos de la Organización Mundial del Comercio (OMC), que permite analizar la información de productos similares y observar la concentración de exportaciones; \n\n- países de destino, para identificar qué países son importantes en las relaciones comerciales colombianas; \n\n- departamentos de origen; \n\n- aduanas de salida; \n\n- productos y capítulos arancelarios que se exportan; \n\n- sectores de los que provienen los bienes exportados (oferta) basado en la clasificación CIIU, entre otros. \n\nA partir de estos cuadros se pueden construir gráficos que ilustran mejor el fenómeno. En particular, ellos buscan analizar los comportamientos de: \n\n- El valor total FOB y toneladas netas de las exportaciones. \n\n- El valor FOB y toneladas netas de las exportaciones por países de destino y sus variaciones porcentuales. \n\n- Exportaciones según aduanas del país y sus variaciones porcentuales. \n\n- Valor y cantidad neta según principales productos de exportación. \n\n- Cantidad neta y valor de los principales productos exportados, según principales países de destino. \n\n- Valor y cantidad neta de las exportaciones, según principales aduanas. \n\n- Valor y cantidad neta de las exportaciones según principales capítulos del arancel colombiano correspondiente. \n\n- Comportamiento valor FOB y toneladas exportadas, según clasificación CIIU Rev.3. \n\n- Valor de las exportaciones según departamento de origen. \n\nPara realizar un análisis completo no basta con evaluar los valores absolutos de las variables de exportaciones: es indispensable recurrir a herramientas que muestren su evolución y proporción. Así, en todo análisis, se deben tener en cuenta las variaciones, las participaciones y las contribuciones porcentuales. \n\n\nANÁLISIS DE CONTEXTO \n \nEs importante también contrastar los datos que se estén obteniendo con la realidad económica y de los mercados internacionales. De esta forma, se pueden detectar errores en la elaboración de las cifras o se pueden descubrir fenómenos que deben ser cuidadosamente explicados con argumentos, para el caso particular. Por ejemplo, si ante un incremento en el precio internacional del café se reduce el valor FOB de las exportaciones colombianas del grano, esto puede ser un indicador de posibles errores en las estadísticas, a menos que sea posible explicar el fenómeno haciendo referencia a una sequía o plaga que haya arruinado la cosecha y, por lo tanto, haya afectado negativamente la exportación. \n\n\nCOMITÉ DE EXPERTOS \n \nValidada la información en pre comité y comité interno con expertos en el tema de comercio exterior de bienes, se realiza un comité externo en donde se analiza, verifica, discute y valida la información que se va a difundir. A esta reunión asisten entidades tales como el Banco de la República, Ministerio de Hacienda, Departamento Nacional de Planeación (DNP), Ministerio de Comercio, Industria y Turismo, Ministerio de Agricultura, Asociación Nacional de Comercio Exterior, ProColombia, DIAN, entre otras."
+            }
+        },
+        "data_access": {
+            "dataset_use": {
+                "conf_dec": [
+                    {
+                        "txt": "Ley 79 de 1993 Artículo 5:\n\nLos datos suministrados al Departamento Administrativo Nacional de Estadística DANE, en el desarrollo de los censos y encuestas, no podrán darse a conocer al público ni a entidades u organismos oficiales, ni a las autoridades públicas, sino únicamente en resúmenes numéricos, que no hagan posible deducir de ellos información alguna de carácter individual que pudiera utilizarse para fines comerciales, de tributación fiscal, de investigación judicial o cualquier otro diferente del propiamente estadístico.",
+                        "required": "yes",
+                        "form_no": "",
+                        "uri": ""
+                    }
+                ],
+                "contact": [
+                    {
+                        "name": "Departamento Administrativo Nacional de Estadísticas",
+                        "affiliation": "Gobierno Nacional",
+                        "email": "dane@dane.gov.co",
+                        "uri": "www.dane.gov.co"
+                    }
+                ],
+                "cit_req": "Se autoriza el uso de la información contenida en esta portal, siempre y cuando se haga la siguiente cita textual: \"Fuente: Departamento Administrativo Nacional de Estadística: www.dane.gov.co. Queda en cambio prohibida la copia o reproducción de los datos en cualquier medio electrónico (redes, bases de datos, cd rom, diskettes) que permita la disponibilidad de esta información a multiples usuarios sin el previo visto bueno del DANE por medio escrito.",
+                "conditions": "El acceso a los microdatos anonimizados de uso público es de carácter gratuito y estará disponible en la página Web del DANE. \n\nEl acceso a los microdatos anonimizados por licencia,cuando requiera procesamientos adicionales, podrá tener un costo que será definido mediante acto administrativo.\n\nPara más información acerca de la difusión de información estadística, consultar:\n\n\nhttp://www.dane.gov.co/files/acerca/Normatividad/Ley79_1993.pdf\n\nhttp://www.dane.gov.co/files/acerca/Normatividad/Resolucion1503_2011.pdf"
+            }
+        }
+    }
+}
